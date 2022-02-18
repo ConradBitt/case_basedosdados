@@ -1,4 +1,4 @@
-# case_basedosdados
+# Case Base Dos Dados
 Repositório criado para a envio do case para a Base dos Dados
 
 ## [Link para o notebook](https://github.com/ConradBitt/case_basedosdados/blob/main/Case_base_dos_dados.ipynb)
